@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aaranx
+- 👋 Hi, I’m @ali
 - 👀 I’m interested in Development
 
 <!---
