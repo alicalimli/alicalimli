@@ -6,7 +6,7 @@ Front-end Web Developer
 
 *   🌍  I'm based in Turkey
 *   ✉️  You can contact me at [alicalimli76@gmail.com](mailto:alicalimli76@gmail.com)
-*   🧠  I'm learning Javascript soon will be learning React
+*   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Front-end Projects
 *   ⚡  I am also interested in Web Design and Linux OS
 
