@@ -1,35 +1,34 @@
-Hi 👋 My name is Ali Calimli
-============================
+<h1 align="center">Hi 👋, I'm Ali</h1>
+<h3 align="center">A passionate front-end developer based from Turkey</h3>
 
-Front-end Web Developer
------------------------
+<p align="left"> <a href="https://twitter.com/alicalimli_dev" target="blank"><img src="https://img.shields.io/twitter/follow/alicalimli_dev?logo=twitter&style=for-the-badge" alt="alicalimli_dev" /></a> </p>
 
-*   🌍  I'm based in Turkey
-*   ✉️  You can contact me at [alicalimli76@gmail.com](mailto:alicalimli76@gmail.com)
-*   🧠  I'm learning React
-*   🤝  I'm open to collaborating on Front-end Projects
-*   ⚡  I am also interested in Web Design and Linux OS
+- 🔭 I’m currently working on [Quizzical](quizzical-ali.netlify.app)
 
-### Skills
+- 🌱 I’m currently learning **Front-end frameworks**
+
+- 👨‍💻 All of my projects are available at [alicalimli.netlify.app](alicalimli.netlify.app)
+
+- 📝 I write articles on [https://alicalimli.hashnode.dev/](https://alicalimli.hashnode.dev/)
+
+- 💬 Ask me about **HTML, CSS, and JavaScript**
+
+- 📫 How to reach me **alicalimli76@gmail.com**
+
+- ⚡ Fun fact **I'm also interested with UI/UX Design**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-                                <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-                    </p>
-                    
+<a href="https://codepen.io/alicalimli_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alicalimli_dev" height="30" width="40" /></a>
+<a href="https://twitter.com/alicalimli_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alicalimli_dev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alicalimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicalimli" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18284490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18284490" height="30" width="40" /></a>
+</p>
 
-### Socials
-                  
-<p align="left"> <a href="https://www.github.com/alicalimli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/alicalimli_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-### Badges
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicalimli&show_icons=true&locale=en&layout=compact" alt="alicalimli" /></p>
 
-<b>My GitHub Stats</b>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&" alt="alicalimli" /></p>
 
-<a href="http://www.github.com/alicalimli"><img src="https://github-readme-stats.vercel.app/api?username=alicalimli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alicalimli's GitHub stats" /></a>
-
-<a href="https://github.com/alicalimli" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicalimli&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/alicalimli/movie-matrix-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=alicalimli&repo=movie-matrix-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
