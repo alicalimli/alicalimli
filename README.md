@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
 <h3 align="center">A passionate front-end developer based from Turkey</h3>
 
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1](https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC)">
+
+
 <p align="left"> <a href="https://twitter.com/alicalimli_dev" target="blank"><img src="https://img.shields.io/twitter/follow/alicalimli_dev?logo=twitter&style=for-the-badge" alt="alicalimli_dev" /></a> </p>
 
 - 🔭 I’m currently working on [Quizzical](quizzical-ali.netlify.app)
