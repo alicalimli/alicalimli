@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Front-end frameworks**
 
-- 👨‍💻 All of my projects are available at [alicalimli.netlify.app](alicalimli.netlify.app)
+- 👨‍💻 All of my projects are available in [my portfolio](https://alicalimli.netlify.app/)
 
 - 📝 I write articles on [https://alicalimli.hashnode.dev/](https://alicalimli.hashnode.dev/)
 
