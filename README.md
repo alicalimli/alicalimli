@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/alicalimli_dev" target="blank"><img src="https://img.shields.io/twitter/follow/alicalimli_dev?logo=twitter&style=for-the-badge" alt="alicalimli_dev" /></a> </p>
 
-- 🔭 I’m currently working on [Quizzical](quizzical-ali.netlify.app)
+- 🔭 I’m currently working on [Quizzical](https://quizzical-ali.netlify.app/)
 
 - 🌱 I’m currently learning **Front-end frameworks**
 
