@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **alicalimli76@gmail.com**
 
-- ⚡ Fun fact **I'm also interested with UI/UX Design**
+- ⚡ Fun fact **I love building stuffs**
 
 ## 🔗‍ Connect with me:
 <p align="left">
