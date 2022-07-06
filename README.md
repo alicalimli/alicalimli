@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/alicalimli_dev" target="blank"><img src="https://img.shields.io/twitter/follow/alicalimli_dev?logo=twitter&style=for-the-badge" alt="alicalimli_dev" /></a> </p>
 
-- 🔭 I’m currently working on Chately a real time messaging app with React and Tailwind
+- 🔭 I’m currently working on Chately messaging app with React & Tailwind
 
 - 🌱 I’m currently learning **Front-end frameworks**
 
