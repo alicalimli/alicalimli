@@ -33,7 +33,7 @@
 
 ## 📊 Statistics:
 
-<a align="right" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/alicalimli/alicalimli/blob/master/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/alicalimli/alicalimli/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=alicalimli&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=dracula&hide_border=false)<br/>
