@@ -31,16 +31,19 @@
 ## 💻 Languages and tools:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)
 
-## 📊 Statistics:
+## 📊 My Statistics:
 
 <a align="right" href="https://app.daily.dev/DailyDevTips"><img align="right" width="330" src="/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
 
-![](https://github-readme-stats.vercel.app/api?username=alicalimli&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alicalimli&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=monokai&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🏆 My Contribution Graph
+![](https://activity-graph.herokuapp.com/graph?username=alicalimli&theme=monokai)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alicalimli&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alicalimli&icon=9&color=0)](https://visitcount.itsvg.in)
