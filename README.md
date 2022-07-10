@@ -3,6 +3,8 @@
 
 <img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
 
+<a align="right" href="https://app.daily.dev/alicalimli_devv"><img src="https://api.daily.dev/devcards/bf272dbb98524f1d80f4a4872749a0c4.png?r=ffh" width="400" alt="Ali Calimli's Dev Card"/></a>
+
 <p align="left"> <a href="https://twitter.com/alicalimli_dev" target="blank"><img src="https://img.shields.io/twitter/follow/alicalimli_dev?logo=twitter&style=for-the-badge" alt="alicalimli_dev" /></a> </p>
 
 - 🔭 I’m currently working on Chately messaging app with React & Tailwind
