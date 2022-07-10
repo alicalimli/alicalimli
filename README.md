@@ -33,7 +33,7 @@
 
 ## 📊 My Statistics:
 
-<a align="right" href="https://app.daily.dev/DailyDevTips"><img align="right" width="330" src="/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
+<a align="right" href="https://app.daily.dev/alicalimli_devv"><img align="right" width="330" src="/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
 
 ![](https://github-readme-stats.vercel.app/api?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=monokai&hide_border=true)<br/>
