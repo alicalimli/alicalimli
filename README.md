@@ -42,9 +42,6 @@
 ## 🏆 My Contribution Graph
 ![](https://activity-graph.herokuapp.com/graph?username=alicalimli&theme=monokai)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alicalimli&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=alicalimli&icon=9&color=0)](https://visitcount.itsvg.in)
 
