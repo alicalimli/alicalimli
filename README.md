@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Chately messaging app with React/Tailwind
 
-- 🌱 I’m currently learning **React + Tailwind and Bash Scripting**
+- 🌱 I’m currently learning **Typescript, Redux, Bash**
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://alicalimli.netlify.app/)
 
