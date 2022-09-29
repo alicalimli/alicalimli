@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
 
-- 🔭 I’m currently working on Chately messaging app with React/Tailwind
+- 🔭 I’m currently working on a chat application with React/Tailwind
 
 - 🌱 I’m currently learning **Firebase**
 
