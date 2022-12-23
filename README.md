@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A passionate front-end developer based from Turkey</h3>
+<h3 align="center">A Frontend Developer and Content Creator</h3>
 
 <p align="left"> <a href="https://twitter.com/alicalimli_dev" target="blank"><img src="https://img.shields.io/twitter/follow/alicalimli_dev?logo=twitter&style=for-the-badge" alt="alicalimli_dev" /></a> </p>
 
