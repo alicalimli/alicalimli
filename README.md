@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **alicalimli76@gmail.com** or dm me on <a href="https://twitter.com/alicalimli_dev">Twitter</a>
+- 📫 Reach me by email **alicalimli76@gmail.com** or dm me on <a href="https://twitter.com/alicalimli_dev">Twitter</a>
 
 - ⚡ Fun fact **I love building stuffs**
 
