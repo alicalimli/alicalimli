@@ -5,17 +5,17 @@
 
 <img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
 
-- 🔭 I’m currently working on a chat application with React/Tailwind
+- 🔭 I’m currently remaking my developer portfolio website
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **Apollo Graphql**
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://alicalimli.netlify.app/)
 
 - 📝 I write articles on [https://alicalimli.hashnode.dev/](https://alicalimli.hashnode.dev/)
 
-- 💬 Ask me about **HTML, CSS, and JavaScript**
+- 💬 Ask me about **Frontend Development**
 
-- 📫 How to reach me **alicalimli76@gmail.com**
+- 📫 How to reach me **alicalimli76@gmail.com** or dm me on <a href="https://twitter.com/alicalimli_dev">Twitter</a>
 
 - ⚡ Fun fact **I love building stuffs**
 
