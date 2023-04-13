@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Apollo Graphql**
 
-- 👨‍💻 All of my projects are available in my [portfolio](https://alicalimli.netlify.app/)
+- 👨‍💻 All of my projects are available in my [portfolio](https://alicalimli.com/)
 
 - 📝 I write articles on [https://alicalimli.hashnode.dev/](https://alicalimli.hashnode.dev/)
 
