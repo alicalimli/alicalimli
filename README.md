@@ -5,9 +5,7 @@
 
 <img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
 
-- 🔭 I’m currently remaking my developer portfolio website
-
-- 🌱 I’m currently learning **Apollo Graphql**
+- 🔭 I’m currently working as a Frontend Developer
 
 - 👨‍💻 All of my projects are available in my [portfolio](https://alicalimli.com/)
 
