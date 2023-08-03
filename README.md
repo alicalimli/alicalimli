@@ -7,23 +7,9 @@
 
 - 🔭 I’m currently working as a Frontend Developer
 
-- 👨‍💻 All of my projects are available in my [portfolio](https://alicalimli.com/)
-
-- 📝 I write articles on [https://alicalimli.hashnode.dev/](https://alicalimli.hashnode.dev/)
-
 - 💬 Ask me about **Frontend Development**
 
-- 📫 Reach me by email **alicalimli76@gmail.com** or dm me on <a href="https://twitter.com/alicalimli_dev">Twitter</a>
-
-- ⚡ Fun fact **I love building stuffs**
-
-## 🔗‍ Connect with me:
-<p align="left">
-<a href="https://codepen.io/alicalimli_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="alicalimli_dev" height="30" width="40" /></a>
-<a href="https://twitter.com/alicalimli_dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alicalimli_dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/alicalimli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alicalimli" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/18284490" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="18284490" height="30" width="40" /></a>
-</p>
+- 📫 Reach me by email **alicalimli76@gmail.com**
 
 
 ## 💻 Languages and tools:
