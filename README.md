@@ -1,42 +1,72 @@
-<h1 align="center">Hi 👋, I'm Ali</h1>
-<h3 align="center">A Frontend Developer and Content Creator</h3>
+<div align="center">
+  <h1>Hi, I'm Ali 🎯</h1>
+  
+  <p>
+ I'm a Frontend Engineer with expertise in building high-quality applications that look great and provide an exceptional user experience.
+  </p>
 
+  <p>
+    I also enjoy experimenting with web animations and making unique user interfaces.
+  </p>
 
-<img align="right" alt="Coding" style="border-radius:100px;" width="400" src="/tech.gif"/>
-
-- 🔭 I’m currently working as a Frontend Developer
-
-- 💬 Ask me about **Frontend Development**
-
-- 📫 Reach me by email **alicalimli76@gmail.com**
-
-
-## 💻 Languages and tools:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 	![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) 
-![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-311C87?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-
-
-## 📊 My Statistics:
-
-<a align="right" href="https://app.daily.dev/alicalimli_devv"><img align="right" width="330" src="/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
-
-![](https://github-readme-stats.vercel.app/api?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=monokai&hide_border=true/)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 My Contribution Graph
-![](https://activity-graph.herokuapp.com/graph?username=alicalimli&theme=monokai)
+  <br>
+  
+  <a href="https://alicalimli.com">
+    <img src="https://img.shields.io/badge/Website-alicalimli.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://twitter.com/alicalimli_dev">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/alicalimli">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alicalimli&icon=9&color=0)](https://visitcount.itsvg.in)
 
+## What I'm Working On
+
+### **[WebDevVisuals](https://webdevvisuals.com)**  
+My educational platform where I upload tips & tricks in web development. 80+ educational visuals, 5M+ views across social platforms, 600+ users. 
+Built with React + Supabase + Astro.
+
+### **[WebDevLetter](https://alicalimli.substack.com/)**  
+My newsletter where I share practical web development tips and lessons from my experience with 1,000+ developers, helping them grow faster, avoid common mistakes, and build better careers.
+
+### **[Kotobi](https://alicalimli.com/kotobi)**  
+A context-driven vocabulary learning app. Instead of generic word lists, describe your situation and get personalized vocabulary. React + TypeScript.
+
+### **[Mundane Browser](https://alicalimli.com/mundane)**  
+Privacy first Electron browser I built to gain deeper knowledge on how Electron works. Features tab hibernation, workspaces, unified search, completely private, and the ui is awesome.
+
+---
+
+## Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Stripe](https://img.shields.io/badge/-Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+---
+
+## 📊 My Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alicalimli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicalimli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+</div>
+
+---
+
+<div align="center">
+  <em>I'm shipping high-quality web & desktop applications. Teaching the rest.</em> 🚀
+</div>
