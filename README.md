@@ -20,6 +20,12 @@
   <a href="https://linkedin.com/in/alicalimli">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+
+  
+  <br/>
+  <br/>
+
+  <p>You can reach me anytime at <a href="mailto:alicalimli76@gmail.com">alicalimli76@gmail.com</a></p>
 </div>
 
 ---
@@ -59,11 +65,11 @@ Privacy first Electron browser I built to gain deeper knowledge on how Electron 
 
 ## 📊 My Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alicalimli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=tokyonight&hide_border=true" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alicalimli&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
-</div>
+<a align="right" href="https://app.daily.dev/alicalimli_devv"><img align="right" width="330" src="/devcard.svg" width="400" alt="Ali Calimli's Dev Card"/></a>
+
+![](https://github-readme-stats.vercel.app/api?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=alicalimli&theme=monokai&hide_border=true/)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=alicalimli&theme=monokai&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ---
 
